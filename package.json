@@ -1,0 +1,24 @@
+{
+  "name": "-practica-8-servidor-http-basico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnyDeCoder/-Practica-8-Servidor-HTTP-Basico.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnyDeCoder/-Practica-8-Servidor-HTTP-Basico/issues"
+  },
+  "homepage": "https://github.com/JohnyDeCoder/-Practica-8-Servidor-HTTP-Basico#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "^0.0.1-security"
+  }
+}
